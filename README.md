@@ -26,4 +26,4 @@ Performed academic and enrollment analytics using SAS to evaluate student enroll
 Performed SAS-based reporting, statistical analysis, interpretation of enrollment trends, and academic insights generation.
 
 ## Project File
-View the uploaded SAS project report in this repository.
+📄 [View Project Report](./Course_enrollment_Analytics_SAS.pdf)
